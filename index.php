@@ -52,7 +52,7 @@ tinyMCE.init({
 
 <?php include("sidebar.php"); ?>
   
-  <a href="https://github.com/mjmacfadden/psdb"><img src="images/github.png" id="github" /></a>
+  <a href="https://github.com/mjmacfadden/psdbw"><img src="images/github.png" id="github" /></a>
 
   <div id="editor">
 
