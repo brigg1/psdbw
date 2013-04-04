@@ -1,0 +1,12 @@
+psdbw
+=====
+
+PowerSchool Daily Bulletin Writer
+
+This tool takes advantage of the Tiny MCE WYSIWYG editor
+to make writing Powerschool Daily Bulletin messages easier...
+
+
+1. Write and style your daily bulletin using the WYSIWYG to the right.
+2. Click the "HTML" button to view and copy the generated "HTML" code.
+3. Paste the code in the text area in PowerSchool and click submit.
